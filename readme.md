@@ -1,1 +1,0 @@
-Static website for the portfolio
