@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unity on Personal Portfolio</title>
+    <title>Unity on Zafer Altınsoy</title>
     <link>https://zaltinsoy.github.io/tags/unity/</link>
-    <description>Recent content in Unity on Personal Portfolio</description>
+    <description>Recent content in Unity on Zafer Altınsoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jan 2024 16:18:47 +0300</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://zaltinsoy.github.io/projects/metudiscover/</link>
       <pubDate>Sun, 28 Jan 2024 16:18:47 +0300</pubDate>
       <guid>https://zaltinsoy.github.io/projects/metudiscover/</guid>
-      <description>METU Discover is a location-based augmented reality game focused on the METU campus.</description>
+      <description>METU Discover is a location-based augmented reality game focused on the flora of the METU campus. I have developed it as a part of my Master&amp;rsquo;s Thesis in Multimedia Informatics. I have used Firebase Database for the storage of the player and points of interest information.&#xA;OpenStreetMap is used for the map data. Visualization of the map is done by parsing and using the OSM data. It allows me to have complete visual control over the map visual as needed.</description>
     </item>
   </channel>
 </rss>
