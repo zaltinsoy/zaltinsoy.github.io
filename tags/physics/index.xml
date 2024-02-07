@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on Zafer Altınsoy</title>
+    <link>https://zaltinsoy.github.io/tags/physics/</link>
+    <description>Recent content in Physics on Zafer Altınsoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Mar 2022 16:18:47 +0300</lastBuildDate>
+    <atom:link href="https://zaltinsoy.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ATLAS</title>
+      <link>https://zaltinsoy.github.io/projects/atlas/</link>
+      <pubDate>Sun, 13 Mar 2022 16:18:47 +0300</pubDate>
+      <guid>https://zaltinsoy.github.io/projects/atlas/</guid>
+      <description>ATLAS - MMI 541 Game Physics Project Introduction Summary Atlas is a 3D First Person Puzzle Game where the players will be in the role of the reincarnation of the Greek titan Atlas. The game will be consist of different test chambers. Player&amp;rsquo;s aim is to reach the exit of each chamber. These test chambers will consist 3D puzzles and the player will use the different gravity manipulation powers to solve these puzzles and reach the end of the level.</description>
+    </item>
+  </channel>
+</rss>

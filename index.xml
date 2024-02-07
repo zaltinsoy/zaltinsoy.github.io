@@ -15,5 +15,12 @@
       <guid>https://zaltinsoy.github.io/projects/metudiscover/</guid>
       <description>METU Discover is a location-based augmented reality game focused on the flora of the METU campus. I have developed it as a part of my Master&amp;rsquo;s Thesis in Multimedia Informatics. I have used Firebase Database for the storage of the player and points of interest information.&#xA;OpenStreetMap is used for the map data. Visualization of the map is done by parsing and using the OSM data. It allows me to have complete visual control over the map visual as needed.</description>
     </item>
+    <item>
+      <title>ATLAS</title>
+      <link>https://zaltinsoy.github.io/projects/atlas/</link>
+      <pubDate>Sun, 13 Mar 2022 16:18:47 +0300</pubDate>
+      <guid>https://zaltinsoy.github.io/projects/atlas/</guid>
+      <description>ATLAS - MMI 541 Game Physics Project Introduction Summary Atlas is a 3D First Person Puzzle Game where the players will be in the role of the reincarnation of the Greek titan Atlas. The game will be consist of different test chambers. Player&amp;rsquo;s aim is to reach the exit of each chamber. These test chambers will consist 3D puzzles and the player will use the different gravity manipulation powers to solve these puzzles and reach the end of the level.</description>
+    </item>
   </channel>
 </rss>
